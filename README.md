@@ -2,6 +2,9 @@
 
 ## Image ##
 
+This repo was created before official image arrived at Docker Hub. Please use the official docker image instead.
+See: <https://hub.docker.com/r/litespeedtech/openlitespeed>
+
 Please refer to <https://hub.docker.com/r/indeedplusplus/openlitespeed/> for more information.
 
 ## Building Process ##
